@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "シャクシャイン",
+  "base_artist": "水曜日のカンパネラ",
+  "createdAt": "2026-02-26T16:07:43.066747Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Shakushain [シャクシャイン]",
+      "artist": "Wednesday Campanella",
+      "has_synced": true,
+      "path": "select/01_Shakushain_[シャクシャイン]_Wednesday_Campanella.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "シャクシャイン",
+      "artist": "WEDNESDAY CAMPANELLA",
+      "has_synced": true,
+      "path": "select/02_シャクシャイン_WEDNESDAY_CAMPANELLA.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "シャクシャイン",
+      "artist": "Wednesday Campanella (水曜日のカンパネラ)",
+      "has_synced": true,
+      "path": "select/03_シャクシャイン_Wednesday_Campanella_(水曜日のカンパネラ).lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "シャクシャイン",
+      "artist": "Suiyoubi no Campanella",
+      "has_synced": true,
+      "path": "select/04_シャクシャイン_Suiyoubi_no_Campanella.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "シャクシャイン (Shakushain)",
+      "artist": "Suiyoubi no Campanella",
+      "has_synced": true,
+      "path": "select/05_シャクシャイン_(Shakushain)_Suiyoubi_no_Campanella.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Shakushain シャクシャイン",
+      "artist": "Wednesday Campanella",
+      "has_synced": true,
+      "path": "select/06_Shakushain_シャクシャイン_Wednesday_Campanella.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "シャクシャイン",
+      "artist": "水曜日のカンパネラ",
+      "has_synced": false,
+      "path": "select/pl_01_シャクシャイン_水曜日のカンパネラ.txt"
+    }
+  ]
+}
